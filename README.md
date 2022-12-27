@@ -3,7 +3,7 @@
 
 # Z0roday
 
-<p><b>Email</b>:aslanihamid646@gmail.com</p>
+<b>Email</b>:aslanihamid646@gmail.com
 
 <p><b>telegram</b>:z0roday</p>
 
